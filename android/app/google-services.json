@@ -33,35 +33,6 @@
           ]
         }
       }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:948158287176:android:ee47c43c313a39afa6777d",
-        "android_client_info": {
-          "package_name": "com.pocfirebaseandpush.mobile.developerapp"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "948158287176-qdptlur2p2h5ugad3tqkp9vgi15hohsp.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBWNljUxow1CRuQHGudpeafF9ZmDeQ2fuM"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "948158287176-qdptlur2p2h5ugad3tqkp9vgi15hohsp.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
     }
   ],
   "configuration_version": "1"
